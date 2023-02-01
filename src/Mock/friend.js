@@ -3,7 +3,7 @@ const List = [
   {
     id: 0,
     siteName: "WZT′blog",
-    path: "https://www.fengziy.cn",
+    path: "https://www.wzt.cn",
     desc: "一个It技术的探索者",
   },
 ];
