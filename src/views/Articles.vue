@@ -604,9 +604,6 @@ article.hentry {
     }
   }
 
-  .entry-content {
-  }
-
   footer.post-footer {
     width: 100%;
     padding: 20px 10px;
